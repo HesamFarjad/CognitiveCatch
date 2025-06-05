@@ -2,13 +2,11 @@
 An interactive Laravel web app for early detection of cognitive and mental disorders in children through gamified assessment.
 
 
-
-
 # 🧠 Child Mental Health Diagnostic Game
 
-An **AI-assisted, Laravel-based web application** designed for the **early detection of cognitive and mental disorders in children aged 5–12**, developed as part of a master's thesis at **Sapienza University of Rome**.
+**CognitiveCatch: An Interactive Laravel Web App for Early Detection of Cognitive and Mental Disorders in Children through Gamified Assessment.**
 
-This project integrates **gamification**, **adaptive interfaces**, and **machine learning algorithms** to provide an accessible, engaging, and data-driven psychological screening experience.
+This project was developed as part of my **Master’s thesis** at **Sapienza University of Rome**, completed in **October 2023**. The platform combines advanced technology with psychological insights to create a child-friendly diagnostic tool.
 
 ---
 
@@ -32,7 +30,6 @@ The system was developed with guidance from both the **Faculty of Computer Engin
 - 🔐 **Admin & role-based access control** (doctors, admins)
 - 📈 **Behavioral data collection** (response accuracy, reaction time, session flow)
 - 📊 **Detailed exam reporting** per user
-- 🧠 **Basic machine learning support** (e.g., Decision Trees, Neural Nets)
 
 ---
 
