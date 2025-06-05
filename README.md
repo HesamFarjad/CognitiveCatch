@@ -1,7 +1,3 @@
-# CognitiveCatch
-An interactive Laravel web app for early detection of cognitive and mental disorders in children through gamified assessment.
-
-
 # 🧠 Child Mental Health Diagnostic Game
 
 **CognitiveCatch: An Interactive Laravel Web App for Early Detection of Cognitive and Mental Disorders in Children through Gamified Assessment.**
