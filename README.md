@@ -65,8 +65,11 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 
+```
 
-🧑‍🏫 Research Context
+---
+
+## 🧑‍🏫 Research Context
 This project is part of the thesis:
 
 "Navigating Cognitive and Mental Disorders in Case of Children: An Innovative Approach through the Online Assessment"
@@ -75,10 +78,14 @@ Supervisor: Prof. Christian Napoli
 University: Sapienza Università di Roma
 Academic Year: 2023/2024
 
-🛡️ Ethical & Educational Use
+---
+
+## 🛡️ Ethical & Educational Use
 This project is open-sourced for academic, clinical, and research use only. It is not intended as a replacement for formal clinical diagnosis.
 
-🌱 Future Directions
+---
+
+## 🌱 Future Directions
 Integrate advanced ML models for behavioral pattern recognition
 
 Add support for multilingual interfaces
@@ -87,7 +94,9 @@ Implement mobile-first design
 
 Publish API endpoints for researcher integration
 
-🤝 Acknowledgements
+---
+
+## 🤝 Acknowledgements
 Special thanks to:
 
 Dr. Valerio Ponzi & Dr. Samuele Russo (Co-Advisors)
@@ -96,7 +105,10 @@ The psychology and computer science departments at Sapienza University
 
 All participants and testers who contributed to user evaluation and validation
 
-📄 License
+
+---
+
+## 📄 License
 © 2023 Hesam Farjad
 Released under a custom educational license. Contact for reuse or academic collaboration:
 📧 farjad.1938534@studenti.uniroma1.it
